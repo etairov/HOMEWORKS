@@ -10,7 +10,6 @@ for (int i = 1; i < (N+1); i++)
     if (i%2 == 0)
     {
         Console.Write(i + " ");
-        //Console.WriteLine($"Четные от N {N} = {i}");  
     }    
 }
 Console.WriteLine("N = " + N);
